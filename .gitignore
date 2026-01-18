@@ -1,0 +1,15 @@
+# Ignore generated / local data directories
+processed/*
+data/*
+processed_frames/*
+runs/*
+datasets/*
+venv/*
+scripts/yolo*
+scripts/**/*.png
+scripts/**/*.jpg
+scripts/**/*.avi
+scripts/**/*.pt
+yolo*.pt
+*.jpg
+LukeLayla.zip
